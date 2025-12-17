@@ -16,4 +16,4 @@ Merci de contribuer à la documentation stratégique d'InnovQube.
 
 ## Validation
 - Relecture par l'équipe produit.
-- Vérification que les faits/propositions correspondent au rapport d'analyse stratégique.
+- Vérification des faits/propositions.
